@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_id"
+            android:icon="@drawable/my_id"
+            android:title="@string/menu_id" />
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@drawable/ic_my_attendence"
+            android:title="@string/menu_attendance" />
+        <item
+            android:id="@+id/nav_pass"
+            android:icon="@drawable/ic_password"
+            android:title="@string/menu_password" />
+        <item
+            android:id="@+id/nav_credits"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/menu_credits" />
+    </group>
+</menu>

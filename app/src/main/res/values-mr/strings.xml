@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AttendanceTaker</string>
+    <string name="title_activity_user_main">UserMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_officer_main">OfficerMainActivity</string>
+
+    <string name="enter_your_username">वापरकर्त्याचे नाव प्रविष्ट करा</string>
+    <string name="username">वापरकर्त्याचे नाव</string>
+    <string name="enter_your_password">तुमचा पासवर्ड प्रविष्ट करा</string>
+    <string name="login_new">लॉग इन</string>
+    <string name="forgot_your_password">तुमचा पासवर्ड विसरलात?</string>
+    <string name="recover">पुनर्प्राप्त करा</string>
+    <string name="language">भाषा निवडा</string>
+    <string name="lang">भाषा</string>
+    <string name="signin">साइन इन करत आहे..</string>
+    <string name="recover_msg">नियंत्रण कक्षाशी संपर्क साधा</string>
+    <string name="errorinvalidlogin">अवैध वापरकर्ता नाव किंवा संकेतशब्द</string>
+
+
+    <string name="menu_home">होम</string>
+
+    <string name="admin_name">Admin Name</string>
+    <string name="admin_designation">Admin Designation</string>
+
+    <string name="aadhar_number">आधार क्रमांक</string>
+    <string name="phone_no">मोबाइल नंबर</string>
+    <string name="date_birth_new">जन्मदिनांक</string>
+    <string name="blood_group">रक्त गट</string>
+    <string name="gender">लिंग</string>
+    <string name="place_of_posting">नेमणूक</string>
+    <string name="menu_profile">प्रोफाईल</string>
+    <string name="menu_id">ओळखपञ</string>
+    <string name="menu_attendance">माझी उपस्थिति</string>
+    <string name="menu_credits">क्रेडिट्स</string>
+    <string name="menu_password">पासवर्ड बदला</string>
+    <string name="solapur_police">सोलापूर ग्रामीण पोलिस,</string>
+    <string name="maharashtra">महाराष्ट्र</string>
+    <string name="identity">ओळखपत्र</string>
+    <string name="nameid">नाव :</string>
+    <string name="mr_name">Name</string>
+    <string name="id_post">हुद्दा :</string>
+    <string name="post_id">Your Post</string>
+    <string name="id_dob">जन्मतारीख :</string>
+    <string name="date">dob</string>
+    <string name="id_blood_grp">रक्त गट :</string>
+    <string name="bld_grp">रक्त गट निवडा</string>
+    <string name="log_out">बाहेर पडा</string>
+    <string name="my_attendance">माझी उपस्थिति</string>
+    <string name="current_password">सध्याचा गुप्त शब्द:</string>
+    <string name="enter_current_password">वर्तमान पासवर्ड प्रविष्ट करा</string>
+    <string name="new_password">नवीन पासवर्ड</string>
+    <string name="enter_new_password">नवीन पासवर्ड टाका:</string>
+    <string name="confirm_your_password">आपल्या पासवर्डची पुष्टी करा</string>
+    <string name="change_your_password">आपला पासवर्ड बदला</string>
+    <string name="change_password_title">पासवर्ड बदला</string>
+    <string name="my_team">माझी टिम</string>
+    <string name="mark_attendance">नोंदवा उपस्थिती</string>
+    <string name="displayAttendanceMsgSuccess">उपस्थिती यशस्वीरित्या लावली</string>
+    <string name="displayMsgAttendanceError">उपस्थिती लावली नाही</string>
+    <string name="PermissionMsg">कृपया कॅमेरा परवानगी द्या अन्यथा उपस्थित राहणार नाही</string>
+    <string name="name">नाव</string>
+    <string name="designation">हुद्दा</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="mark">नोंदवा</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="register">नोंदणी</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="lastName">अडनाव</string>
+    <string name="middleName">मध्यनाव</string>
+    <string name="firstName">प्रथमनाव</string>
+    <string name="selectbloodGroup">रक्त गट निवडा</string>
+    <string name="SelectGender">लिंग निवडा</string>
+    <string name="selectDesignation">पदवी निवडा</string>
+    <string name="firstNameReq">प्रथम नाव आवश्यक</string>
+    <string name="middleNameReq">मध्यनाव आवश्यक</string>
+    <string name="lastNameReq">उपनाव आवश्यक</string>
+    <string name="invalidAdhar">अवैध आधार क्रमांक</string>
+    <string name="enterValidNo">कृपया वैध मोबाइल क्रमांक प्रविष्ट करा</string>
+    <string name="enterValidNemnukNo">कृपया वैध निमुक प्लेस प्रविष्ट करा</string>
+    <string name="PasswordnotMatch">पासवर्ड जुळत नाही</string>
+    <string name="RegisteringUser">नोंदणी करत आहे</string>
+
+    <string name="registerSuccess">नोंदणी यशस्वीरित्या लावली</string>
+    <string name="registerUnsuccess">नोंदणी लावली नाही</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_profile">
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.siddhesh.attendancetaker.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_id"
+        android:name="com.siddhesh.attendancetaker.IdFragment"
+        android:label="@string/menu_id"
+        tools:layout="@layout/fragment_id" />
+
+    <fragment
+        android:id="@+id/nav_attendance"
+        android:name="com.siddhesh.attendancetaker.MyAttendanceFragment"
+        android:label="@string/menu_attendance"
+        tools:layout="@layout/fragment_my_attendance" />
+
+    <fragment
+        android:id="@+id/nav_pass"
+        android:name="com.siddhesh.attendancetaker.ChangePasswordFragment"
+        android:label="@string/menu_password"
+        tools:layout="@layout/fragment_change_password">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_credits"
+        android:name="com.siddhesh.attendancetaker.CreditsFragment"
+        android:label="@string/menu_credits"
+        tools:layout="@layout/fragment_credits">
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.siddhesh.attendancetaker.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+    </fragment>
+
+</navigation>

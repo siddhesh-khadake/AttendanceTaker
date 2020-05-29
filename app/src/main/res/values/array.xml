@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Registration Activity
+    <string-array name="district">
+        <item>Select District</item>
+        <item>Ahmednagar(AH)</item>
+        <item>Akola(AK)</item>
+        <item>Amravati City(AMC)</item>
+        <item>Amravati Rural(AMR)</item>
+        <item>Aurangabad City(AUC)</item>
+        <item>Aurangabad Rural(AUR)</item>
+        <item>Beed(BI)</item>
+        <item>Bhandara(BH)</item>
+        <item>Buldhana(BU)</item>
+        <item>Chandrapur(CH)</item>
+        <item>Dhule(DH)</item>
+        <item>Gadchiroli(GA)</item>
+        <item>Gondia(GO)</item>
+        <item>Hingoli(HI)</item>
+        <item>Jalgaon(JG)</item>
+        <item>Jalna(JN)</item>
+        <item>Kolhapur(KO)</item>
+        <item>Latur(LA)</item>
+        <item>Mumbai City(MC)</item>
+        <item>New Mumbai(NM)</item>
+        <item>Mumbai Rail-Way</item>
+        <item>Mumbai Suburban(MU)</item>
+        <item>Nagpur City(NGC)</item>
+        <item>Nagpur Rail-Way(NG)</item>
+        <item>Nagpur Rural(NGR)</item>
+        <item>Nanded(ND)</item>
+        <item>Nandurbar(NB)</item>
+        <item>Nashik City(NSC)</item>
+        <item>Nashik Rural(NSR)</item>
+        <item>Osmanabad(OS)</item>
+        <item>Parbhani(PA)</item>
+        <item>Pune City(PUC)</item>
+        <item>Pune Rural(PUR)</item>
+        <item>Pune Rail-Way(PU)</item>
+        <item>Raigad(RG)</item>
+        <item>Ratnagiri(RT)</item>
+        <item>Sangli(SN)</item>
+        <item>Satara(ST)</item>
+        <item> Sindhudurg(SI)</item>
+        <item> Solapur City(SOC)</item>
+        <item> Solapur Rural(SOR)</item>
+        <item>Thane City(THC)</item>
+        <item>Thane Rural(THR)</item>
+        <item> Wardha(WR)</item>
+        <item> Washim(WS)</item>
+        <item> Yavatmal(YTL)</item>
+        <item>Palghar(PL)</item>
+    </string-array>
+
+    <string-array name="dutytype">
+        <item>Select Duty Type</item>
+        <item>General Police</item>
+        <item>Traffic Police</item>
+        <item>Camera man</item>
+        <item>RTPC</item>
+    </string-array>
+
+    <string-array name="spsrpf">
+        <item>Select SRPF force Group</item>
+        <item>RRP no.1 Pune</item>
+        <item>RRP no.2 Pune</item>
+        <item>RRP no.3 Jalana</item>
+        <item>RRP no.4 Nagpur</item>
+        <item>RRP no.5 Daund</item>
+        <item>RRP no.6 Dhule</item>
+        <item>RRP no.7 Daund</item>
+        <item>RRP no.8 Mumbai</item>
+        <item>RRP no.9 Amarvati</item>
+        <item>RRP no.10 Solapur</item>
+        <item>RRP no.11 Navi-Mumbai</item>
+        <item>RRP no.12 Hingoli</item>
+        <item>RRP no.13 Nagpur</item>
+        <item>RRP no.14 Aurangabad(IRB-1)</item>
+        <item>RRP no.15 Gondia(IRB-2)</item>
+        <item>RRP no.16 Kholapur(IRB-3)</item>
+        <item>RRPB Police Training Center Nanvij,Daund</item>
+    </string-array>
+
+    <string-array name="post">
+        <item>Select Designation</item>
+        <item>SP</item>
+        <item>Add.SP</item>
+        <item>ASP</item>
+        <item>DYSP</item>
+        <item>PI</item>
+        <item>API</item>
+        <item>PSI</item>
+        <item>ASI</item>
+        <item>Head Const.</item>
+        <item>PN</item>
+        <item>PC</item>
+        <item>Home Guard</item>
+        <item>HSP</item>
+        <item>QRT</item>
+        <item>RCP</item>
+        <item>SRPF</item>
+        <item>IRB</item>
+        <item>BDDS</item>
+    </string-array>
+
+    <string-array name="spgender">
+        <item>Select Gender</item>
+        <item>MALE</item>
+        <item>FEMALE</item>
+        <item>TRANSGENDER</item>
+    </string-array>
+
+    <string-array name="bloodgp">
+    <item>Select Blood Group</item>
+    <item>A+</item>
+    <item>A-</item>
+    <item>AB+</item>
+    <item>AB-</item>
+    <item>B+</item>
+    <item>B-</item>
+    <item>O+</item>
+    <item>O-</item>
+    </string-array>
+
+    //Attendance Activity
+    <string-array name="remarkList">
+        <item>Absent</item>
+        <item>On Leave</item>
+        <item>Not Present at the moment</item>
+    </string-array>
+
+</resources>
